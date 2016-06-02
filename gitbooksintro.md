@@ -22,7 +22,7 @@ Nice work. This should have set up the webhooks needed to update your gitbook fr
 
 ##Step 3: Remove superfluous content
 
-There are a files in the `data` and `examples` directory of this repository that you may want to get rid of. (they were included mainly because github doesn't register empty folders.)
+There are a files in the `data` and `examples` directory of this repository that you may want to get rid of (they were included mainly because github doesn't register empty folders).
 
 
 ##Step 4: Adding content
