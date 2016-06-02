@@ -12,13 +12,10 @@
         "toggle-chapters",
         "mathjax",
         "sectionx",
-        "youtubex"
+        "youtubex",
+        "edit-link"
     ],
     "pluginsConfig": {
-        "edit-link": {
-            "base": "https://github.com/resbaz/ResGuides-Gitbook/edit/master",
-            "label": "Edit This Page"
-        },
         "ga": {
             "token": "UA-12478122-2"
         }
