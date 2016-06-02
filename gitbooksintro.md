@@ -4,7 +4,6 @@
 ### Follow these instructions to create you own `ResGuides` lesson using this book as a template. 
 
 
-
 ##Step 1: github
 
 Create a __copy__ of this repository using the github [importer](https://github.com/new/import). You can do this from any github account. 
