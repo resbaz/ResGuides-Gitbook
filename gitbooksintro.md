@@ -77,7 +77,7 @@ Your book will automatically have file called SUMMARY.md and place it in the doc
 * [API Reference](docs/api-reference.md)
 ```
 
-
+We have created a flat structure i.e. all pages (markdown files just appear one after the other), but you can have nested contents, i.e. chapters, sections...
 
 ##Step 6: Configuration and plugins
 
