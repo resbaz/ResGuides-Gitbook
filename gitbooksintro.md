@@ -81,7 +81,9 @@ We have created a flat structure i.e. all pages (markdown files just appear one 
 
 ##Step 6: Configuration and plugins
 
-When you are in the online editor on gitbook.com, there is a dropdown icon at thefar riht of the screen. Click on this an then on `plugins store`. Selecting a plugins will have two effects: First it will create a book.json in the project’s root. This is used by Gitbook for its settings. Second it will add the plugin you selected by pasting the required json snippet into the book.json file. 
+When you are in the online editor on gitbook.com, there is a dropdown icon at the far riht of the screen. Click on this an then on `plugins store`. Selecting a plugins will add the plugin you selected by pasting the required json snippet into the book.json file. 
+
+* Note that plugins are a common source of gitbook build errors. If stuff starts acting weirdly after you activated a new plugin, consider deactivating that plugin as a first check (deactivate the plugin from the same plugins store)
 
 
 ```json
