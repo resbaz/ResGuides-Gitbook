@@ -7,7 +7,6 @@
         "url": "https://github.com/resbaz/ResGuides-Gitbook"
     },
     "plugins": [
-        "edit-link",
         "ga",
         "ungrey",
         "toggle-chapters",
