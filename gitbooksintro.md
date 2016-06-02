@@ -10,6 +10,7 @@ Create a __copy__ of this repository using the github [importer](https://github.
 
 Paste this link in to the importer: https://github.com/resbaz/ResGuides-Gitbook.git. Make sure to give your new lesson a new name, e.g. `ResGuides: Data Science with Python`
 
+* make the owner of the book ResBaz
 
 ##Step 2: gitbook
 
@@ -20,11 +21,9 @@ Nice work. This should have set up the webhooks needed to update your gitbook fr
 
 ##Step 3: Adding content
 
- From your gitbook.com dashboard (e.e. https://www.gitbook.com/@dansand/dashboard) click on you newly created book. This takes you to the book's `detail`s page: (e.g. https://www.gitbook.com/book/dansand/gitbookgitbook/details).
- 
- There is an edit icon, which will allow you to edit content. 
+We've created a couple of markdown files to demonstrate a few markdown tricks as well as gitbooks plugins.
 
-##Step 4: Marking it Down
+##Step 4: Getting started with markdown
 
 [Markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
