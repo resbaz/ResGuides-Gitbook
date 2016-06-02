@@ -6,7 +6,7 @@
 
 ##Step 1: github
 
-* Create a __copy__ of this repository using the github [importer](https://github.com/new/import). You want to paste this link in to `Your old repository’s clone URL`: https://github.com/resbaz/ResGuides-Gitbook.git.
+* Create a __copy__ of this repository using the github [importer](https://github.com/new/import). You want to paste this link in to `Your old repository’s clone URL`: https://github.com/resbaz/ResGuides-Gitbook.git
 
 * You will also need to choose an owner for the new (copied) repository, make this [the ResBaz github acccount](https://github.com/resbaz) (if you have access).
 
