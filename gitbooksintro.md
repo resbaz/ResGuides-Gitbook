@@ -20,11 +20,16 @@ Go to [gitbook.com](https://www.gitbook.com), and then click `new book`. This bi
 Nice work. This should have set up the webhooks needed to update your gitbook from github. Let's check that by adding some content.
 
 
-##Step 3: Adding content
+##Step 3: Remove superfluous content
+
+There are a files in the `data` and `examples` directory of this repository that you may want to get rid of. (they were included mainly because github doesn't register empty folders.)
+
+
+##Step 4: Adding content
 
 We've created a couple of markdown files to demonstrate a few markdown tricks as well as gitbooks plugins.
 
-##Step 4: Getting started with markdown
+##Step 5: Getting started with markdown
 
 [Markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
@@ -68,7 +73,7 @@ def FFT(x):
 
 ```
 
-##Step 5: Book layout 
+##Step 6: Book layout 
 
 Your book will automatically have file called SUMMARY.md and place it in the docs directory. This is what dictates the contents tree of the book (or autogenerate). It looks a bit like this:
 
@@ -80,7 +85,7 @@ Your book will automatically have file called SUMMARY.md and place it in the doc
 
 We have created a flat structure i.e. all pages (markdown files just appear one after the other), but you can have nested contents, i.e. chapters, sections...
 
-##Step 6: Plugins
+##Step 7: Plugins
 
 When you are in the online editor on gitbook.com, there is a dropdown icon at the far riht of the screen. Click on this an then on `plugins store`. Selecting a plugin will add the plugin you selected by pasting the required json snippet into the book.json file. 
 
@@ -94,7 +99,7 @@ When you are in the online editor on gitbook.com, there is a dropdown icon at th
 
 ```
 
-##Step 7: When builds go wrong
+##Step 8: When builds go wrong
 
 coming soon
 
