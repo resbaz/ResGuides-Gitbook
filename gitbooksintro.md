@@ -95,6 +95,8 @@ When you are in the online editor on gitbook.com, there is a dropdown icon at th
 
 ##Step 7: When builds go wrong
 
+coming soon
+
 
 ###Links, blogs, resources
 
