@@ -13,7 +13,7 @@ Paste this link in to the importer: https://github.com/resbaz/ResGuides-Gitbook.
 
 ##Step 2: gitbook
 
-Go to [gitbook.com](https://gitbook.com), and then click `new book`. This bit is __important__: in the new book window cmake sure you choose the github option in the top menu. Now scroll down and select the new github repository you set up.
+Go to [gitbook.com](https://www.gitbook.com), and then click `new book`. This bit is __important__: in the new book window cmake sure you choose the github option in the top menu. Now scroll down and select the new github repository you set up.
 
 Nice work. This should have set up the webhooks needed to update your gitbook from github. Let's check that by adding some content.
 
