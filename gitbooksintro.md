@@ -6,11 +6,12 @@
 
 ##Step 1: github
 
-Create a __copy__ of this repository using the github [importer](https://github.com/new/import). You can do this from any github account, e.g the  [the ResBaz github acccount](https://github.com/resbaz) (if you have access.)
+* Create a __copy__ of this repository using the github [importer](https://github.com/new/import). You want to paste this link in to `Your old repository’s clone URL`: https://github.com/resbaz/ResGuides-Gitbook.git.
 
-Paste this link in to the importer: https://github.com/resbaz/ResGuides-Gitbook.git. Make sure to give your new lesson a new name, e.g. `ResGuides: Data Science with Python`
+* You will also need to choose an owner for the new (copied) repository, make this [the ResBaz github acccount](https://github.com/resbaz) (if you have access).
 
-* make the owner of the book ResBaz
+* Finally, Make sure to give your new lesson a new name, e.g. `ResGuides: Data Science with Python`
+
 
 ##Step 2: gitbook
 
