@@ -34,45 +34,6 @@ We've created a couple of markdown files to demonstrate a few markdown tricks as
 [Markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 
-
-__Maths__
-
-{% math %}
- {\partial{\bf u}\over{\partial t}} + ({\bf u} \cdot \nabla) {\bf u} = - {1\over\rho} \nabla p + \gamma\nabla^2{\bf u} + {1\over\rho}{\bf F} 
-{% endmath %}
-
-
-__code__
-
-Render different languages with eg. 
-
-<div>
-```python 
-
-your code here...
-
-```
-</div>
-
-```python
-def FFT(x):
-    """A recursive implementation of the 1D Cooley-Tukey FFT"""
-    x = np.asarray(x, dtype=float)
-    N = x.shape[0]
-    
-    if N % 2 > 0:
-        raise ValueError("size of x must be a power of 2")
-    elif N <= 32:  # this cutoff should be optimized
-        return DFT_slow(x)
-    else:
-        X_even = FFT(x[::2])
-        X_odd = FFT(x[1::2])
-        factor = np.exp(-2j * np.pi * np.arange(N) / N)
-        return np.concatenate([X_even + factor[:N / 2] * X_odd,
-                               X_even + factor[N / 2:] * X_odd])
-
-```
-
 ##Step 6: Book layout 
 
 Your book will automatically have file called SUMMARY.md and place it in the docs directory. This is what dictates the contents tree of the book (or autogenerate). It looks a bit like this:
@@ -106,9 +67,8 @@ coming soon
 
 ###Links, blogs, resources
 
-[](https://medium.com/@gpbl/how-to-use-gitbook-to-publish-docs-for-your-open-source-npm-packages-465dd8d5bfba#.acdr3enfr)
+[useful blog post](https://medium.com/@gpbl/how-to-use-gitbook-to-publish-docs-for-your-open-source-npm-packages-465dd8d5bfba#.acdr3enfr)
 
 
 
-[download this file](https://raw.githubusercontent.com/dansand/Python/master/data/europe-seasonal.txt)
 
