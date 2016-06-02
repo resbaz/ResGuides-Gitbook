@@ -4,4 +4,4 @@ ResBaz (the Research Bazaar) is a campaign, community and conference, falling un
 
 ## Contribute
 
-We love contributors! Please help us improve or fix the documentation by opening a Pull Request.
+We love contributors! Please help us improve or fix the documentation by opening a Pull Request. The easiest way to contribute is to click on the `edit this page` button on the blue header bar.
