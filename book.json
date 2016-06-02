@@ -18,7 +18,11 @@
     "pluginsConfig": {
         "ga": {
             "token": "UA-12478122-2"
-        }
+        },
+        "edit-link": {
+           "base": "https://github.com/drupalcommerce/commerce-docs/edit/master",
+           "label": "Edit This Page"
+       }
     },
     "styles": {
         "website": "styles/all.css",
